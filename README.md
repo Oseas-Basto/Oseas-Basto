@@ -1,4 +1,4 @@
-### Hi there 👋
+### Estudante de programação #Python 😄
 
 <!--
 **Oseas-Basto/Oseas-Basto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
